@@ -5,7 +5,7 @@
 }
 
 body {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.8;
     background: #f6f6f6;
 }
@@ -49,9 +49,8 @@ a:hover {
     margin-bottom: 0.5em;
 }
 .chapter h2 {
-    font-size: 22px;
+    font-size: 24px;
     font-weight: bold;
-    margin-bottom: 1em;
     border-left: 4px solid #397be1;
     padding-left: 15px;
 }
@@ -67,8 +66,8 @@ a:hover {
 /* chapter 1 */
 
 .chapter1 span {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 1em;
+    padding-right: 1em;
     position: relative;
     color: #333;
 }
@@ -109,7 +108,7 @@ a:hover {
     margin-bottom: 0;
 }
 .job h3 span {
-    font-size: 14px;
+    font-size: 16px;
     color: #999;
     font-weight: normal;
     margin-left: 30px;
